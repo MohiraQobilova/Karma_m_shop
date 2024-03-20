@@ -1,0 +1,1 @@
+# karma_m_shop
